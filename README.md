@@ -3,4 +3,5 @@ Built a classifier that distinguishes images of Martian terrain with frost. You 
 This dataset was created to study Mars’ seasonal frost cycle and its role in the planet’s climate and surface evolution over the past 2 billion years. The data helps identify low-latitude frosted microclimates and their impact on climate.
 
 Example Images:
-![Frost](/example_images_frost.png)    ![Background](/example_images_background.png)
+
+<img src="/example_images_frost.png" alt="Frost" width="48%"/> <img src="/example_images_background.png" alt="Background" width="48%"/>
